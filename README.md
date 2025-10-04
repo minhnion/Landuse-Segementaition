@@ -56,8 +56,8 @@ Follow these steps to set up the project environment.
 
 1.  **Clone the repository**
     ```sh
-    git clone https://github.com/AI-Bot-Dev/Advanced-Land-Use-Segmentation.git
-    cd Advanced-Land-Use-Segmentation
+    git clone https://github.com/minhnion/Landuse-Segementaition.git
+    cd Landuse-Segmentation
     ```
 
 2.  **Create and activate a virtual environment** (recommended)
