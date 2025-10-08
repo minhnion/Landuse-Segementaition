@@ -4,7 +4,7 @@
 
 This repository is a research framework for advanced semantic segmentation of land use from satellite imagery. The project aims to implement, compare, and explore various deep learning architectures, starting from the classic U-Net to modern hybrid models involving Vision Transformers (ViT) and enhancement techniques like Super-Resolution.
 
-The primary dataset used for development is the [DeepGlobe Land Cover Classification Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset).
+The primary dataset used for development is the [Global Land Cover Mapping - OpenEarthMap](https://www.kaggle.com/datasets/aletbm/global-land-cover-mapping-openearthmap).
 
 ### Core Goals
 
@@ -72,8 +72,8 @@ Follow these steps to set up the project environment.
     ```
 
 4.  **Download the dataset**
-    -   Download the data from [Kaggle: DeepGlobe Land Cover Classification](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset).
-    -   Unzip the contents into the `data/` directory. The final path to the training images should look like this: `data/deepglobe-land-cover-classification-dataset/train/`.
+    -   Download the data from [Global Land Cover Mapping - OpenEarthMap](https://www.kaggle.com/datasets/aletbm/global-land-cover-mapping-openearthmap).
+    -   Unzip the contents into the `data/` directory.
 
 ---
 
@@ -114,4 +114,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 *   [U-Net Paper](https://arxiv.org/abs/1505.04597)
 *   [Vision Transformer (ViT) Paper](https://arxiv.org/abs/2010.11929)
-*   [DeepGlobe Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
+*   [Global Land Cover Dataset](https://www.kaggle.com/datasets/aletbm/global-land-cover-mapping-openearthmap)
