@@ -1,4 +1,4 @@
-# Advanced Land-Use Segmentation
+# Landuse Segmentation
 
 ## About The Project
 
@@ -18,7 +18,7 @@ The primary dataset used for development is the [Global Land Cover Mapping - Ope
 ## Project Structure
 
 ```
-Advanced-Land-Use-Segmentation/
+Landuse-Segmentation/
 ├── configs/
 │   ├── 01_unet_baseline.yaml
 │   └── 02_vit_unet.yaml
